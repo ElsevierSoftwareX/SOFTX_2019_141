@@ -1,0 +1,49 @@
+Accident_Type,Drive_Age,Drive_Sex,Drive_Exp,Vehicle_Age,vehicle_Type,Light_Condition,Weather_Condition,Road_Condition,Road_Geometry,Time,Season,Day,Causes,Number of injuries,Number of death,LATITUDE,LONGITUDE
+Fatal,<20,M,<1,<2,Car,Day,Clear,Collapse road,Horizontal,[6-12],Spring,M,Loss of Control,[2-5],1,31.737222,-7.9813911
+Injury,[21-27],F,>6,<5,Car,Day,Run,Highway,Crossing,[12-18],Summer,S,Alcohol effects,1,[2-5],31.6559443,-7.9414627
+Injury,[28-60],F,>7,<10,Car,Night,Clear,Collapse road,Alignment,[18-00],Autumn,W,Speed,[2-5],1,31.7133332,-7.9130382
+Injury,>60,F,<1,<15,Car,Day,Run,Highway,Horizontal,[12-18],Summer,Sa,Speed,[6-10],[2-5],31.6863663,-7.9297499
+Injury,<21,F,<2,<10,Truck,Day,Clear,Unpaved road,Alignment,[12-18],Summer,T,Brake Failure,[2-5],[2-5],31.7740216,-7.9545587
+Injury,[21-27],F,<3,<5,Car,Day,Wind,Highway,Alignment,[6-12],Winter,M,Speed,[2-5],[2-5],31.8028166,-7.9084713
+Property damage,[28-60],M,[2-6],<15,Car,Day,wind,Collapse road,Horizontal,[12-18],Summer,T,Loss of Control,[2-5],0,31.6402751,-7.9902425
+Injury,<21,F,[2-6],<10,Truck,Day,wind,Unpaved road,Alignment,[12-18],Autumn,S,Speed,1,1,31.6976818,-7.9870208
+Injury,[21-27],F,[2-6],<5,Truck,Day,Clear,Highway,Alignment,[12-18],Summer,W,Pushed by another vehicle,1,0,31.6273208,-7.0742516
+Injury,[28-60],F,[2-6],<15,Pedestrian,Day,Clear,Collapse road,Crossing,[6-12],Autumn,M,Alcohol effects,1,1,31.7137447,-7.9939435
+Injury,>61,F,>6,<5,Truck,Day,Clear,Unpaved road,Alignment,[6-12],Summer,S,Speed,[2-5],[2-5],31.6605622,-7.0011894
+Injury,<22,M,>7,<5,Motocycle,Night,Wind,Unpaved road,Alignment,[18-00],Winter,F,Fatigue,[2-5],[2-5],31.7130722,-7.7536054
+Fatal,[21-27],M,>8,<5,Pedestrian,Day,Clear,Highway,Horizontal,[12-18],Summer,T,Loss of Control,[2-5],1,31.6772556,-7.8117243
+Fatal,[28-60],M,>9,<15,Truck,Day,Clear,Ice road,Alignment,[6-12],Autumn,M,Pushed by another vehicle,1,[2-5],31.7445767,-7.8258072
+Fatal,<22,M,>10,<5,Pedestrian,Day,Clear,Unpaved road,Alignment,[12-18],Summer,F,Alcohol effects,[2-5],1,31.6548405,-7.9596963
+Property damage,[21-27],M,<1,<10,Pedestrian,Day,Run,Unpaved road,Horizontal,[6-12],Autumn,S,Speed,1,0,31.7261182,-7.0015983
+Fatal,<20,M,<2,<2,Car,Day,Clear,Collapse road,Alignment,[6-12],Summer,M,Loss of Control,[6-10],[2-5],31.7219776,-7.9599371
+Fatal,<20,M,<3,<2,Car,Day,Clear,Unpaved road,Bridge,[12-18],Summer,S,Brake Failure,[6-10],[2-5],31.6962076,-7.9615863
+Fatal,<23,M,<4,<15,Car,Night,Run,Collapse road,Alignment,[18-00],Winter,S,Speed,[2-5],[2-5],31.5404996,-7.1773091
+Fatal,[21-27],M,<5,<10,Pedestrian,Day,Run,Collapse road,Horizontal,[12-18],Summer,M,Speed,1,0,31.6739972,-7.9278414
+Property damage,[28-60],M,[2-6],<15,Car,Day,wind,Collapse road,Horizontal,[12-18],Summer,T,Loss of Control,[2-5],0,31.76551,-7.7760101
+Injury,<21,F,[2-6],<10,Truck,Day,wind,Unpaved road,Alignment,[12-18],Autumn,S,Speed,1,1,31.6210612,-7.9544576
+Injury,[21-27],F,[2-6],<5,Truck,Day,Clear,Highway,Alignment,[12-18],Summer,W,Pushed by another vehicle,1,0,31.6854052,-7.9752435
+Injury,[28-60],F,[2-6],<15,Pedestrian,Day,Clear,Collapse road,Crossing,[6-12],Autumn,M,Alcohol effects,1,1,31.6878117,-7.9236906
+Injury,>61,F,>6,<5,Truck,Day,Clear,Unpaved road,Alignment,[6-12],Summer,S,Speed,[2-5],[2-5],31.773734,-7.9640111
+Injury,<22,M,>7,<5,Motocycle,Night,Wind,Unpaved road,Alignment,[18-00],Winter,F,Fatigue,[2-5],[2-5],31.6268219,-7.9267072
+Fatal,[21-27],M,>8,<5,Pedestrian,Day,Clear,Highway,Horizontal,[12-18],Summer,T,Loss of Control,[2-5],1,31.6156433,-7.0672834
+Fatal,[28-60],M,>9,<15,Truck,Day,Clear,Ice road,Alignment,[6-12],Autumn,M,Pushed by another vehicle,1,[2-5],31.6233236,-7.9971218
+Fatal,<22,M,>10,<5,Pedestrian,Day,Clear,Unpaved road,Alignment,[12-18],Summer,F,Alcohol effects,[2-5],1,31.771155,-7.9796523
+Property damage,[21-27],M,<1,<10,Pedestrian,Day,Run,Unpaved road,Horizontal,[6-12],Autumn,S,Speed,1,0,31.6393194,-7.9367931
+Fatal,<20,M,<2,<2,Car,Day,Clear,Collapse road,Alignment,[6-12],Summer,M,Loss of Control,[6-10],[2-5],31.6759396,-7.7815312
+Fatal,<20,M,<3,<2,Car,Day,Clear,Unpaved road,Bridge,[12-18],Summer,S,Brake Failure,[6-10],[2-5],31.7609285,-7.969133
+Fatal,<23,M,<4,<15,Car,Night,Run,Collapse road,Alignment,[18-00],Winter,S,Speed,[2-5],[2-5],31.6157886,-7.0121276
+Fatal,[21-27],M,<5,<10,Pedestrian,Day,Run,Collapse road,Horizontal,[12-18],Summer,M,Speed,1,0,31.6119531,-7.9681646
+Property damage,[28-60],M,[2-6],<15,Car,Day,wind,Collapse road,Horizontal,[12-18],Summer,T,Loss of Control,[2-5],0,31.6742332,-7.861764
+Injury,<21,F,[2-6],<10,Truck,Day,wind,Unpaved road,Alignment,[12-18],Autumn,S,Speed,1,1,31.7741558,-7.9848794
+Injury,[21-27],F,[2-6],<5,Truck,Day,Clear,Highway,Alignment,[12-18],Summer,W,Pushed by another vehicle,1,0,31.8648086,-7.9193623
+Injury,[28-60],F,[2-6],<15,Pedestrian,Day,Clear,Collapse road,Crossing,[6-12],Autumn,M,Alcohol effects,1,1,31.7642781,-7.9730158
+Injury,>61,F,>6,<5,Truck,Day,Clear,Unpaved road,Alignment,[6-12],Summer,S,Speed,[2-5],[2-5],31.6553345,-7.9307664
+Injury,<22,M,>7,<5,Motocycle,Night,Wind,Unpaved road,Alignment,[18-00],Winter,F,Fatigue,[2-5],[2-5],31.6671664,-7.934056
+Fatal,[21-27],M,>8,<5,Pedestrian,Day,Clear,Highway,Horizontal,[12-18],Summer,T,Loss of Control,[2-5],1,31.6490229,-7.0062416
+Fatal,[28-60],M,>9,<15,Truck,Day,Clear,Ice road,Alignment,[6-12],Autumn,M,Pushed by another vehicle,1,[2-5],31.7080798,-7.7823565
+Fatal,<22,M,>10,<5,Pedestrian,Day,Clear,Unpaved road,Alignment,[12-18],Summer,F,Alcohol effects,[2-5],1,31.6797415,-7.8921169
+Property damage,[21-27],M,<1,<10,Pedestrian,Day,Run,Unpaved road,Horizontal,[6-12],Autumn,S,Speed,1,0,31.6441263,-7.0041656
+Fatal,<20,M,<2,<2,Car,Day,Clear,Collapse road,Alignment,[6-12],Summer,M,Loss of Control,[6-10],[2-5],31.733054,-7.0064082
+Fatal,<20,M,<3,<2,Car,Day,Clear,Unpaved road,Bridge,[12-18],Summer,S,Brake Failure,[6-10],[2-5],31.540131,-7.2176794
+Fatal,<23,M,<4,<15,Car,Night,Run,Collapse road,Alignment,[18-00],Winter,S,Speed,[2-5],[2-5],31.7743679,-7.9635486
+Fatal,[21-27],M,<5,<10,Pedestrian,Day,Run,Collapse road,Horizontal,[12-18],Summer,M,Speed,1,0,31.8870994,-7.9133064

@@ -1,0 +1,10 @@
+@import url("//fonts.googleapis.com/css?family=Orbitron|Cabin:400,700");
+.main-sidebar { 
+  font-size: 14px; 
+}
+
+.main-header .logo {
+  font-family: 'Orbitron', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
