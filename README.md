@@ -1,4 +1,4 @@
-DM-MCDA Implementation in R
+DM-MCDA Implementation in R v 1.0
 -------------------------------
 
 DM-MCDA is an R implementation of a web-based platform for data mining and multiple criteria decision analysis: a case study on road accident. The basis functions used by DM-MCDA are Data visualization, association rules analysis and multiple criteria analysis.  The R app provides classes and functions to determine the DM-MCDA basis functions, to perform advanced data analysis using data mining algorithms.
